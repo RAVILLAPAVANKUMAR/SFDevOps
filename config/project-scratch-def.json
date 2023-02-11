@@ -1,7 +1,8 @@
 {
-  "orgName": "pop company",
+  "orgName": "Salesforce",
   "edition": "Developer",
   "features": ["EnableSetPasswordInApi"],
+  "release": "previous",
   "settings": {
     "lightningExperienceSettings": {
       "enableS1DesktopEnabled": true
